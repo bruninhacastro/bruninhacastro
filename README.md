@@ -27,17 +27,10 @@
 
 ### 📌 Projetos em Destaque (CEJO / SENAI)
 
-- 🏥 **[jogo-clínica-médica](https://github.com/bruninhacastro/clinica-medica)** - Aplicação web interativa em **JavaScript** para simulação de atendimento e gestão de clínica médica.
-- 🐍 **[Prova de Python](https://github.com/bruninhacastro/prova-de-python)** - Projeto em **Python** desenvolvido para validar conceitos de lógica de programação e resolução de problemas.
+- 🏥 **[Clínica Médica](https://github.com/bruninhacastro/clinica-medica)** - Aplicação web interativa em **JavaScript** para simulação de atendimento e gestão de clínica médica.
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bruninhacastro&show_icons=true&theme=radial)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhacastro&layout=compact&theme=radial)
-
----
 
 ### 📬 Contato
 
